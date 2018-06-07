@@ -64,19 +64,19 @@
 * 移动端
 
 * 主页歌单展示
-![电台页](https://github.com/Cxuyang/qq-music/blob/master/projectImg/pc/mdefault.png)
+![电台页](https://github.com/Cxuyang/qq-music/blob/master/projectImg/mobile/mdefault.png)
 
 * 歌手展示
-![歌手展示](https://github.com/Cxuyang/qq-music/blob/master/projectImg/pc/msinger.png)
+![歌手展示](https://github.com/Cxuyang/qq-music/blob/master/projectImg/mobile/msinger.png)
 
 * 歌手详情展示
-![歌手详情展示](https://github.com/Cxuyang/qq-music/blob/master/projectImg/pc/singerdetail.png)
+![歌手详情展示](https://github.com/Cxuyang/qq-music/blob/master/projectImg/mobile/singerdetail.png)
 
 * 排行榜
-![排行榜](https://github.com/Cxuyang/qq-music/blob/master/projectImg/pc/mrank.png)
+![排行榜](https://github.com/Cxuyang/qq-music/blob/master/projectImg/mobile/mrank.png)
 
 * 播放器
-![播放器1](https://github.com/Cxuyang/qq-music/blob/master/projectImg/pc/mplayer.png)
+![播放器1](https://github.com/Cxuyang/qq-music/blob/master/projectImg/mobile/mplayer.png)
 
-![播放器2](https://github.com/Cxuyang/qq-music/blob/master/projectImg/pc/mplayer2.png)
+![播放器2](https://github.com/Cxuyang/qq-music/blob/master/projectImg/mobile/mplayer2.png)
 ## End

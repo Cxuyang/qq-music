@@ -4,7 +4,7 @@
 >个人vue练习项目
 
 * 技术栈:`vue+vue-router+vuex+stylus+node.js+nginx+element-ui+webpack`
-* PS:因为自己域名还未通过备案,所以暂时无法预览。 
+* PS: 因为自己域名还未通过备案,所以暂时无法预览。 
 
 ### 功能说明
 

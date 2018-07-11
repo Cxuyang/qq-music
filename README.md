@@ -12,6 +12,10 @@
 
 数据来源于QQ音乐API,数据抓取详情请见blog文章[qq音乐数据的抓取](http://cxuyang.com/#/posts/jsonp)
 
+>项目部署
+
+项目部署详情请见blog文章[linux部署与nginx代理](http://cxuyang.com/#/posts/linux%E9%83%A8%E7%BD%B2%E4%B8%8Enginx%E4%BB%A3%E7%90%86)
+
 >功能说明
 
 * PC端(详情见QQ音乐主页,动画效果和数据都是一样的)

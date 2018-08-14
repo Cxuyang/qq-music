@@ -38,6 +38,14 @@ export default new Router({
         path: ':id',
         component: Toplist
       }]
+    },
+    {
+      path: '/search',
+      component: resolve => require(['components/mobile-components/m-search/m-search'], resolve)
+    },
+    {
+      path: '/user',
+      component: resolve => require(['components/mobile-components/m-user-center/m-user-center'], resolve)
     }
   ]
 })

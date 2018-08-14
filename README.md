@@ -83,4 +83,10 @@
 ![播放器1](https://github.com/Cxuyang/qq-music/blob/master/projectImg/mobile/mplayer.png)
 
 ![播放器2](https://github.com/Cxuyang/qq-music/blob/master/projectImg/mobile/mplayer2.png)
+
+* 搜索页面
+![搜索页面](https://github.com/Cxuyang/qq-music/blob/master/projectImg/mobile/search.png)
+
+* 用户页面
+![用户页面](https://github.com/Cxuyang/qq-music/blob/master/projectImg/mobile/user.png)
 ## End

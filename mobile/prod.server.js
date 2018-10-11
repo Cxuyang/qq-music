@@ -1,4 +1,5 @@
 var express = require('express')
+// compression  nodejs开启gzip压缩
 var compression = require('compression')
 var config = require('./config/index')
 var axios = require('axios')
